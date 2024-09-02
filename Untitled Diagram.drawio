@@ -1,20 +1,20 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="786" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="873" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="l6MAVtPtGnV0X-iG1m9I-0" value="&lt;b style=&quot;background-color: initial; font-size: 14px;&quot;&gt;1.Include uppercase&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 14px;&quot;&gt;2.Include lowercase&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 14px;&quot;&gt;3.Include numbers&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 14px;&quot;&gt;4.Include symbols&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="250" width="170" height="170" as="geometry" />
+        <mxCell id="l6MAVtPtGnV0X-iG1m9I-0" value="&lt;b style=&quot;background-color: initial; font-size: 14px;&quot;&gt;1.Include uppercase&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 14px;&quot;&gt;2.Include lowercase&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 14px;&quot;&gt;3.Include numbers&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 14px;&quot;&gt;4.Include symbols&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;fontSize=14;fillColor=#000000;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="445" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="l6MAVtPtGnV0X-iG1m9I-2" value="Password Criteria" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;labelBackgroundColor=default;labelBorderColor=none;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="250" width="170" height="40" as="geometry" />
+        <mxCell id="l6MAVtPtGnV0X-iG1m9I-2" value="Password Criteria" style="rounded=0;fontStyle=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=16;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="430" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="l6MAVtPtGnV0X-iG1m9I-3" value="1.Password length&lt;div style=&quot;font-size: 14px;&quot;&gt;2.Strength&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;3.Password value&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;4.create_at&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="339" y="10" width="170" height="170" as="geometry" />
+        <mxCell id="l6MAVtPtGnV0X-iG1m9I-3" value="1.Password length&lt;div style=&quot;font-size: 14px;&quot;&gt;2.Strength&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;3.Password value&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;4.create_at&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;5.Copy_to_clipboard&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=14;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="338" y="180" width="210" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="l6MAVtPtGnV0X-iG1m9I-4" value="Password" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="339" y="10" width="171" height="35" as="geometry" />
+        <mxCell id="l6MAVtPtGnV0X-iG1m9I-4" value="Password_settings" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="338" y="152.5" width="211" height="45" as="geometry" />
         </mxCell>
         <mxCell id="l6MAVtPtGnV0X-iG1m9I-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.333;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.647;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l6MAVtPtGnV0X-iG1m9I-3" target="l6MAVtPtGnV0X-iG1m9I-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -23,34 +23,49 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l6MAVtPtGnV0X-iG1m9I-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1.Strong password&lt;div style=&quot;font-size: 14px;&quot;&gt;2.Moderate password&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;3.Weak password&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="260" width="160" height="160" as="geometry" />
+        <mxCell id="l6MAVtPtGnV0X-iG1m9I-6" value="1.Strength level&lt;div&gt;2.Score&lt;/div&gt;&lt;div&gt;3.Assessed_at&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=14;fillColor=#330000;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="450" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="l6MAVtPtGnV0X-iG1m9I-7" value="Strength" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="260" width="160" height="40" as="geometry" />
+        <mxCell id="l6MAVtPtGnV0X-iG1m9I-7" value="Strength" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="450" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="l6MAVtPtGnV0X-iG1m9I-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.571;entryY=-0.133;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.661;exitY=0.969;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l6MAVtPtGnV0X-iG1m9I-3" target="l6MAVtPtGnV0X-iG1m9I-7">
+        <mxCell id="l6MAVtPtGnV0X-iG1m9I-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.571;entryY=-0.133;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.655;exitY=1.011;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l6MAVtPtGnV0X-iG1m9I-3" target="l6MAVtPtGnV0X-iG1m9I-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="190" as="sourcePoint" />
+            <mxPoint x="490" y="320" as="sourcePoint" />
             <mxPoint x="550" y="180" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="500" y="210" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l6MAVtPtGnV0X-iG1m9I-9" value="1.User id&lt;div style=&quot;font-size: 14px;&quot;&gt;2.User name&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;3.Length&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="10" width="140" height="140" as="geometry" />
+        <mxCell id="l6MAVtPtGnV0X-iG1m9I-9" value="1.User id&lt;div style=&quot;font-size: 14px;&quot;&gt;2.User name&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;3.Length&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=14;fontColor=#ffffff;labelBorderColor=none;textShadow=1;fillColor=#007FFF;strokeColor=#B20000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="250" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="l6MAVtPtGnV0X-iG1m9I-10" value="User" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="10" width="140" height="30" as="geometry" />
+        <mxCell id="l6MAVtPtGnV0X-iG1m9I-10" value="User" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="250" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l6MAVtPtGnV0X-iG1m9I-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="70" as="sourcePoint" />
-            <mxPoint x="339" y="75" as="targetPoint" />
+            <mxPoint x="180" y="317.5" as="sourcePoint" />
+            <mxPoint x="339" y="322.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="70" />
-              <mxPoint x="260" y="70" />
+              <mxPoint x="180" y="317.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l6MAVtPtGnV0X-iG1m9I-13" value="PASSWORD GENERATOR APPLICATION&#xa;ER- DIAGRAM" style="ellipse;shape=cloud;whiteSpace=wrap;fontStyle=1;fontSize=15;labelBackgroundColor=none;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="-110" width="380" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="l6MAVtPtGnV0X-iG1m9I-14" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;1.ID&lt;div style=&quot;font-size: 14px;&quot;&gt;2.Password_ID&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;3.Copied_At&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;4.Device&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;5.Browser&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fontSize=14;fillColor=#e97cd5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="197.5" width="172.5" height="172.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l6MAVtPtGnV0X-iG1m9I-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Clipboard&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#005700;fillColor=#008a00;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="197.5" width="170" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l6MAVtPtGnV0X-iG1m9I-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="l6MAVtPtGnV0X-iG1m9I-3" target="l6MAVtPtGnV0X-iG1m9I-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="430" as="sourcePoint" />
+            <mxPoint x="480" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="285" />
             </Array>
           </mxGeometry>
         </mxCell>
